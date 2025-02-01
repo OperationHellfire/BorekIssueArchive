@@ -87,3 +87,21 @@ If it doesn't work, reinstall Windows.
 - Delete your cfg.json, something might be wrong with the file.
 
 ---
+
+# If you get stuck here, please restart your computer and try again.
+### If you are getting this error, follow these steps:
+- You need to make the time on your PC set automatically.
+- Turn off all antivirus.
+
+<div align="left">
+  <a href="#"><img src="https://cdn.discordapp.com/attachments/1275059206130503682/1275077076239781978/image.png?ex=679ec3d0&is=679d7250&hm=20f8006d55341e61683b8952df4582d50127af3d3ced71d552109651d29239cb&"></a>
+</div>
+
+---
+
+# Error 31-4302.
+### If you are getting this error, follow these steps:
+- Delete cfg.json
+- Open the Launcher, click on the 3 bars and click on "Repair Now"
+
+---

@@ -1,6 +1,6 @@
 # Используйте CTRL+F для поиска ваших проблем
 
-<div align="left">
+<div align="center">
 <table>
   <tr>
     <td valign="center"><a href="README.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</a></td>

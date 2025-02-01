@@ -1,6 +1,6 @@
 # Використовуйте CTRL+F для пошуку ваших проблем
 
-<div align="center">
+<div align="left">
 <table>
   <tr>
     <td valign="center"><a href="README.md"><img src="https://github.com/twitter/twemoji/blob/master/assets/svg/1f1fa-1f1f8.svg" width="16"/> English</a></td>
@@ -10,6 +10,7 @@
     <td valign="center"><a href="README_tr-TR.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1920px-Flag_of_Turkey.svg.png" width="16"/> Türkçe</a></td>
   </tr>
 </table>
+</div>
 
 ---
 # The file path of the injector program cannot contain special characters
@@ -43,9 +44,9 @@
 - Якщо ви з ІРАНУ, вам потрібно використовувати VPN для використання Korepi.
 - Якщо ви не з ІРАНУ, спробуйте вимкнути VPN.
 
-<p align="center">
+<div align="left">
   <a href="#"><img src="https://cdn.discordapp.com/attachments/1275059206130503682/1275064778615951403/timestamp.png?ex=679eb85c&is=679d66dc&hm=04da13041b2709eef5c03703b3f385281932c83006d4ba1bdacd8bbdffc6474c&"></a>
-</p>
+</div>
 
 ---
 
